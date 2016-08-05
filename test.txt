@@ -1,0 +1,3 @@
+This is my first test file in local repository.
+I will add this file to local first, then commits and pushes into Remote 
+git repository.
